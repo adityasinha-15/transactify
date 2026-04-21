@@ -225,6 +225,5 @@ node server.js
 ## 👨‍💻 Author
 
 Aditya Sinha
-Backend Developer
 
 ---
